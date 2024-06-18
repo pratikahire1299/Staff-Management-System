@@ -1,0 +1,14 @@
+Home
+Department
+	CM
+	IF
+	EL 1 and 2
+	CE 1 and 2
+	ME 1 and 2
+	IDD
+	DDGM
+	PS
+	AE
+	EE
+Add a new staff
+Logout
